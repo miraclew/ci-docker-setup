@@ -1,0 +1,6 @@
+deb http://mirrors.tuna.tsinghua.edu.cn/debian/ buster main contrib non-free
+deb http://mirrors.tuna.tsinghua.edu.cn/debian/ buster-updates main contrib non-free
+deb http://mirrors.tuna.tsinghua.edu.cn/debian/ buster-backports main contrib non-free
+deb http://mirrors.tuna.tsinghua.edu.cn/debian-security buster/updates main contrib non-free
+
+deb http://mirrors.tuna.tsinghua.edu.cn/mysql/apt/debian buster mysql-5.6 mysql-5.7 mysql-8.0 mysql-tools
